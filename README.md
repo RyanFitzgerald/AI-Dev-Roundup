@@ -26,6 +26,7 @@ If you'd rather get the latest issue in your inbox every Tuesday, [you can subsc
 - [OpenAI's browser, xAI's Grok 4, and acquisitions galore](issues/july-15-2025.md) - July 15, 2025
 - [Vercel's AI Cloud, Claude Code limits, and OpenAI defection](issues/july-22-2025.md) - July 22, 2025
 - [GPT-5 Upcoming Launch, Google's User Surge, and AI talent war continues](issues/july-29-2025.md) - July 29, 2025
+- [OpenAI's $10B Milestone, Claude API Tensions, and Meta's Talent Snag from Apple](issues/august-5-2025.md) - August 5, 2025
 
 ## Feedback
 
