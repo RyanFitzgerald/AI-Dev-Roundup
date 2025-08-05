@@ -1,4 +1,6 @@
-# AI Dev Roundup
+<img width="2400" height="1256" alt="image" src="https://github.com/user-attachments/assets/565e44cd-4bab-4512-ae53-4b00185d9222" />
+
+# AI Dev Roundup - Weekly Newsletter
 
 AI Dev Roundup is a hand-curated list of AI news, libraries, workflows, and tools from the last week. For busy devs wanting to keep your commits—and career—moving fast. Sent straight to your inbox every Tuesday.
 
