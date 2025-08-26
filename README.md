@@ -18,6 +18,7 @@ If you'd rather get the latest issue in your inbox every Tuesday, [you can subsc
 
 ## Past Issues
 
+- [Meta's Hiring Freeze, Siri's AI Pivot, and Qoder's Coding Power](issues/august-26-2025.md) - August 26, 2025
 - [ChatGPT's Picker Dilemma, Musk's Legal Moves, and Anthropic's Talent Grab](issues/august-19-2025.md) - August 19, 2025
 - [GPT-5 Launches, Claude Opus 4.1 Enhances Code, and Genie 3’s Realms](issues/august-12-2025.md) - August 12, 2025
 - [OpenAI's $10B Milestone, Claude API Tensions, and Meta's Talent Snag from Apple](issues/august-5-2025.md) - August 5, 2025
