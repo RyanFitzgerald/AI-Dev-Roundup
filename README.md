@@ -18,6 +18,7 @@ If you'd rather get the latest issue in your inbox every Tuesday, [you can subsc
 
 ## Past Issues
 
+- [Siri's Makeover, Apple's Search Ambitions, and Anthropic's $13B Boost](issues/september-9-2025.md) - September 9, 2025
 - [AI Job Impact, Meta Staff Exodus, and xAI vs. Apple](issues/september-2-2025.md) - September 2, 2025
 - [Meta's Hiring Freeze, Siri's AI Pivot, and Qoder's Coding Power](issues/august-26-2025.md) - August 26, 2025
 - [ChatGPT's Picker Dilemma, Musk's Legal Moves, and Anthropic's Talent Grab](issues/august-19-2025.md) - August 19, 2025
