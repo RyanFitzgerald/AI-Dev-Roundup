@@ -18,6 +18,7 @@ If you'd rather get the latest issue in your inbox every Tuesday, [you can subsc
 
 ## Past Issues
 
+- [OpenAI–Oracle cloud pact, Anthropic in Office, and Nvidia’s 1M‑token GPU](issues/september-16-2025.md) - September 16, 2025
 - [Siri's Makeover, Apple's Search Ambitions, and Anthropic's $13B Boost](issues/september-9-2025.md) - September 9, 2025
 - [AI Job Impact, Meta Staff Exodus, and xAI vs. Apple](issues/september-2-2025.md) - September 2, 2025
 - [Meta's Hiring Freeze, Siri's AI Pivot, and Qoder's Coding Power](issues/august-26-2025.md) - August 26, 2025
