@@ -18,6 +18,7 @@ If you'd rather get the latest issue in your inbox every Tuesday, [you can subsc
 
 ## Past Issues
 
+- [xAI’s $20B raise, Meta’s $1.5B hire, and OpenAI’s infrastructure deals](issues/october-14-2025.md) - October 14, 2025
 - [ChatGPT Apps SDK, Sora 2, and Claude Skills](issues/october-7-2025.md) - October 7, 2025
 - [Sonnet 4.5, Perplexity Search API, and in-chat checkout for ChatGPT](issues/september-30-2025.md) - September 30, 2025
 - [10GW OpenAI-NVIDIA pact, Anthropic’s postmortem, and Grok 4 Fast](issues/september-23-2025.md) - September 23, 2025
