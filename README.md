@@ -18,6 +18,7 @@ If you'd rather get the latest issue in your inbox every Tuesday, [you can subsc
 
 ## Past Issues
 
+- [OpenAI’s $1T IPO plan, a $38B AWS deal, and Cursor 2.0](issues/november-4-2025.md) - November 4, 2025
 - [Anthropic’s 1M Google TPUs, Meta’s AI layoffs, and ChatGPT Atlas](issues/october-28-2025.md) - October 28, 2025
 - [Claude Haiku 4.5, ChatGPT team prompts, and Claude Code in the browser](issues/october-21-2025.md) - October 21, 2025
 - [xAI’s $20B raise, Meta’s $1.5B hire, and OpenAI’s infrastructure deals](issues/october-14-2025.md) - October 14, 2025
