@@ -18,6 +18,7 @@ If you'd rather get the latest issue in your inbox every Tuesday, [you can subsc
 
 ## Past Issues
 
+- [Claude Opus 4.5, Gemini 3, and Antigravity](issues/november-25-2025.md) - November 25, 2025
 - [OpenAI drops GPT-5.1, Anthropic’s path to profit, and Cursor’s $2.3B round](issues/november-18-2025.md) - November 18, 2025
 - [GPT‑5.1 incoming, Gemini 3 Pro preview, and Nano Banana 2](issues/november-11-2025.md) - November 11, 2025
 - [OpenAI’s $1T IPO plan, a $38B AWS deal, and Cursor 2.0](issues/november-4-2025.md) - November 4, 2025
